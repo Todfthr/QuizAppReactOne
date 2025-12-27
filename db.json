@@ -1,0 +1,1743 @@
+{
+  "quizzes": [
+    {
+      "id": "2",
+      "title": "React Fundamentals",
+      "description": "Check your understanding of React core concepts",
+      "duration": 900,
+      "questions": [
+        {
+          "id": "q4",
+          "text": "What is JSX?",
+          "options": [
+            "A JavaScript extension syntax",
+            "A JavaScript library",
+            "A CSS framework",
+            "A testing tool"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q5",
+          "text": "Which hook is used to manage state in functional components?",
+          "options": [
+            "useEffect",
+            "useState",
+            "useContext",
+            "useReducer"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q6",
+          "text": "What is the purpose of keys in React lists??",
+          "options": [
+            "To style list items",
+            "To identify elements uniquely for React",
+            "To sort list items",
+            "To animate list items"
+          ],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    {
+      "id": "7540",
+      "title": "Quiz 003",
+      "description": "Generated Easy level quiz",
+      "duration": 600,
+      "questions": [
+        {
+          "id": "q_1765952321317_0",
+          "text": "What is the capital of France?",
+          "options": [
+            "Berlin",
+            "London",
+            "Paris",
+            "Madrid"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1765952321317_1",
+          "text": "How many continents are there?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1765952321317_2",
+          "text": "What is the largest planet in our solar system?",
+          "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1765952321317_3",
+          "text": "Who painted the Mona Lisa?",
+          "options": [
+            "Michelangelo",
+            "Raphael",
+            "Leonardo da Vinci",
+            "Donatello"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1765952321317_4",
+          "text": "What is the chemical symbol for gold?",
+          "options": [
+            "Ag",
+            "Au",
+            "Fe",
+            "Hg"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q_1765952321317_5",
+          "text": "What is the name of the highest mountain in the world?",
+          "options": [
+            "K2",
+            "Kangchenjunga",
+            "Mount Everest",
+            "Lhotse"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1765952321317_6",
+          "text": "In what year did World War II begin?",
+          "options": [
+            "1914",
+            "1939",
+            "1941",
+            "1945"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q_1765952321317_7",
+          "text": "What is the smallest country in the world?",
+          "options": [
+            "Monaco",
+            "Vatican City",
+            "Nauru",
+            "Tuvalu"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q_1765952321317_8",
+          "text": "Who wrote the famous play Hamlet?",
+          "options": [
+            "Charles Dickens",
+            "William Shakespeare",
+            "Jane Austen",
+            "Edgar Allan Poe"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q_1765952321317_9",
+          "text": "What is the name of the longest river in the world?",
+          "options": [
+            "Amazon River",
+            "Nile River",
+            "Yangtze River",
+            "Mississippi River"
+          ],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    {
+      "id": "5bf8",
+      "title": "Quiz 004",
+      "description": "Generated Easy level quiz",
+      "duration": 600,
+      "questions": [
+        {
+          "id": "q_1765952442461_0",
+          "text": "What is Flutter?",
+          "options": [
+            "A programming language",
+            "A mobile app development framework",
+            "A web development framework",
+            "A database management system"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765952442461_1",
+          "text": "Which programming language is used in Flutter?",
+          "options": [
+            "Java",
+            "Python",
+            "C++",
+            "Dart"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765952442461_2",
+          "text": "What is the name of Flutter's UI toolkit?",
+          "options": [
+            "React Native",
+            "Android SDK",
+            "UIKit",
+            "Widgets"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765952442461_3",
+          "text": "What does 'hot reload' feature in Flutter allow?",
+          "options": [
+            "Compiling the entire app",
+            "Rebuilding the app after code changes",
+            "Debugging the app",
+            "Running the app on multiple devices"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765952442461_4",
+          "text": "Which file contains the main entry point of a Flutter app?",
+          "options": [
+            "index.html",
+            "main.dart",
+            "app.js",
+            "MainActivity.java"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765952442461_5",
+          "text": "What is a Flutter Widget?",
+          "options": [
+            "A UI element",
+            "A function",
+            "A data structure",
+            "A file type"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765952442461_6",
+          "text": "What is the purpose of a StatelessWidget in Flutter?",
+          "options": [
+            "To create interactive widgets",
+            "To create stateful widgets",
+            "To build immutable widgets",
+            "To handle user input"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765952442461_7",
+          "text": "What is the difference between 'StatelessWidget' and 'StatefulWidget'?",
+          "options": [
+            "StatelessWidgets are reusable, StatefulWidgets are not",
+            "StatelessWidgets are immutable, StatefulWidgets can change state",
+            "StatelessWidgets handle user input, StatefulWidgets display data",
+            "StatelessWidgets are used for animations, StatefulWidgets are used for layouts"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765952442461_8",
+          "text": "What is a 'Scaffold' widget in Flutter?",
+          "options": [
+            "A basic layout widget",
+            "A navigation widget",
+            "A data fetching widget",
+            "A state management widget"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765952442461_9",
+          "text": "What is the role of 'pubspec.yaml' file in Flutter?",
+          "options": [
+            "Defines the app's theme",
+            "Specifies the app's dependencies",
+            "Handles user authentication",
+            "Manages the app's database"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "2f84",
+      "title": "React Quiz",
+      "description": "Generated Easy level quiz",
+      "duration": 600,
+      "questions": [
+        {
+          "id": "q_1765953826660_0",
+          "text": "What is React?",
+          "options": [
+            "A JavaScript library for building user interfaces",
+            "B A programming language",
+            "C A backend framework",
+            "D A database"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765953826660_1",
+          "text": "What does JSX stand for?",
+          "options": [
+            "A JavaScript XML",
+            "B Java Script Extension",
+            "C JavaScript eXtensible",
+            "D JavaScript eXecutable"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765953826660_2",
+          "text": "Which of these is NOT a React component?",
+          "options": [
+            "A Function component",
+            "B Class component",
+            "C HTML element",
+            "D Custom component"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765953826660_3",
+          "text": "What is a React state?",
+          "options": [
+            "A A way to store and manage data in a component",
+            "B A function that updates the UI",
+            "C A CSS style rule",
+            "D A JavaScript variable"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765953826660_4",
+          "text": "What is the purpose of `props` in React?",
+          "options": [
+            "A To pass data from parent to child components",
+            "B To define the state of a component",
+            "C To handle events",
+            "D To render HTML elements"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765953826660_5",
+          "text": "What is a React lifecycle method?",
+          "options": [
+            "A A function that runs at specific points in a component's life cycle",
+            "B A function that updates the state",
+            "C A function that handles events",
+            "D A function that renders the UI"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765953826660_6",
+          "text": "Which lifecycle method is called when a component first mounts?",
+          "options": [
+            "A `componentDidMount`",
+            "B `componentDidUpdate`",
+            "C `componentWillUnmount`",
+            "D `render`"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765953826660_7",
+          "text": "What is the purpose of React Router?",
+          "options": [
+            "A To manage state in a React application",
+            "B To handle user input",
+            "C To handle routing and navigation",
+            "D To connect React to a database"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765953826660_8",
+          "text": "What are React Hooks?",
+          "options": [
+            "A Functions that allow you to use state and lifecycle features in functional components",
+            "B A way to define custom components",
+            "C A method for passing data between components",
+            "D A type of event handler"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1765953826660_9",
+          "text": "Which Hook is used to manage state in a functional component?",
+          "options": [
+            "A `useState`",
+            "B `useEffect`",
+            "C `useContext`",
+            "D `useRef`"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "aaa0",
+      "title": "AI Based questions generation Quiz",
+      "description": "Generated Easy level quiz",
+      "duration": 600,
+      "questions": [
+        {
+          "id": "q_1766386020456_0",
+          "text": "What is the primary function of a quiz generator AI?",
+          "options": [
+            "To provide information",
+            "To generate questions",
+            "To answer questions",
+            "To learn"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q_1766386020456_1",
+          "text": "What is the main purpose of this quiz?",
+          "options": [
+            "To test knowledge",
+            "To generate questions",
+            "To answer questions",
+            "To learn"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q_1766386020456_2",
+          "text": "What type of questions can AI-based quiz generators create?",
+          "options": [
+            "Easy",
+            "Medium",
+            "Hard",
+            "All types"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "q_1766386020456_3",
+          "text": "What is the main advantage of using AI-based quiz generators?",
+          "options": [
+            "To save time",
+            "To increase knowledge",
+            "To improve skills",
+            "To test knowledge"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386020456_4",
+          "text": "What is the primary input for AI-based quiz generators?",
+          "options": [
+            "Text",
+            "Images",
+            "Audio",
+            "All"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "q_1766386020456_5",
+          "text": "What is the main purpose of the difficulty level in a quiz?",
+          "options": [
+            "To make the questions easier",
+            "To make the questions harder",
+            "To adjust the difficulty",
+            "To set the difficulty"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "q_1766386020456_6",
+          "text": "What is the main purpose of the number of questions in a quiz?",
+          "options": [
+            "To test knowledge",
+            "To generate questions",
+            "To answer questions",
+            "To learn"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386020456_7",
+          "text": "What is the primary output of an AI-based quiz generator?",
+          "options": [
+            "A quiz",
+            "A test",
+            "A question",
+            "A answer"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386020456_8",
+          "text": "What is the main advantage of using AI-based quiz generators for educational purposes?",
+          "options": [
+            "To save time",
+            "To increase knowledge",
+            "To improve skills",
+            "To test knowledge"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q_1766386020456_9",
+          "text": "What is the primary function of the answer key in a quiz?",
+          "options": [
+            "To provide information",
+            "To generate questions",
+            "To answer questions",
+            "To learn"
+          ],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "55d0",
+      "title": "quiz010",
+      "description": "Generated Easy level quiz",
+      "duration": 600,
+      "questions": [
+        {
+          "id": "q_1766386375585_0",
+          "text": "What is the main widget in Flutter?",
+          "options": [
+            "Text",
+            "Button",
+            "Widget",
+            "Scaffold"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766386375585_1",
+          "text": "Which method is used to create a new Flutter app?",
+          "options": [
+            "main",
+            "initState",
+            "build",
+            "runApp"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "q_1766386375585_2",
+          "text": "What is the purpose of the 'main' function in Flutter?",
+          "options": [
+            "To create a new widget",
+            "To define the app's theme",
+            "To start the app's main loop",
+            "To define the app's home screen"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766386375585_3",
+          "text": "Which package is used for networking in Flutter?",
+          "options": [
+            "http",
+            "url",
+            "dio",
+            "http_parser"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386375585_4",
+          "text": "What is the purpose of the 'StatelessWidget' class in Flutter?",
+          "options": [
+            "To create a widget that can change its state",
+            "To create a widget that cannot change its state",
+            "To create a widget that can be reused",
+            "To create a widget that cannot be reused"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q_1766386375585_5",
+          "text": "Which method is used to get the current date and time in Flutter?",
+          "options": [
+            "DateTime.now()",
+            "Date.now()",
+            "Time.now()",
+            "Calendar.now()"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386375585_6",
+          "text": "What is the purpose of the 'MaterialApp' widget in Flutter?",
+          "options": [
+            "To create a material design app",
+            "To create a flutter app with a custom theme",
+            "To create a flutter app with a custom layout",
+            "To create a flutter app with a custom navigation system"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386375585_7",
+          "text": "Which method is used to create a new 'Text' widget in Flutter?",
+          "options": [
+            "Text()",
+            "TextWidget()",
+            "TextBuilder()",
+            "TextEditor()"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386375585_8",
+          "text": "What is the purpose of the 'Navigator' class in Flutter?",
+          "options": [
+            "To navigate between different screens",
+            "To create a new screen",
+            "To get the current screen",
+            "To get the current route"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386375585_9",
+          "text": "Which method is used to get the current screen's route in Flutter?",
+          "options": [
+            "Navigator.of(context).key",
+            "Route.of(context).key",
+            "Screen.of(context).key",
+            "Page.of(context).key"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "987e",
+      "title": "qwerty",
+      "description": "Generated Easy level quiz",
+      "duration": 600,
+      "questions": [
+        {
+          "id": "q_1766386453058_0",
+          "text": "What is the main widget class in Flutter?",
+          "options": [
+            "Widget",
+            "Scaffold",
+            "MaterialApp",
+            "Row"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386453058_1",
+          "text": "What is the purpose of the 'main' function in Flutter?",
+          "options": [
+            "To define the app's theme",
+            "To create a new widget",
+            "To run the app",
+            "To define the app's home screen"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766386453058_2",
+          "text": "What is the 'StatelessWidget' class in Flutter?",
+          "options": [
+            "A widget that can change its state",
+            "A widget that cannot change its state",
+            "A widget that can only display text",
+            "A widget that can only display images"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q_1766386453058_3",
+          "text": "What is the 'Future' class in Flutter?",
+          "options": [
+            "A class that represents a completed asynchronous operation",
+            "A class that represents a pending asynchronous operation",
+            "A class that represents a synchronous operation",
+            "A class that represents a null value"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386453058_4",
+          "text": "What is the 'MaterialApp' widget in Flutter?",
+          "options": [
+            "The main application widget",
+            "A widget that displays a material design theme",
+            "A widget that displays a Flutter theme",
+            "A widget that displays a custom theme"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386453058_5",
+          "text": "What is the 'Scaffold' widget in Flutter?",
+          "options": [
+            "A widget that displays a material design theme",
+            "A widget that displays a Flutter theme",
+            "A widget that displays a custom theme",
+            "A widget that provides a basic material design layout"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "q_1766386453058_6",
+          "text": "What is the 'Row' widget in Flutter?",
+          "options": [
+            "A widget that displays a horizontal row of widgets",
+            "A widget that displays a vertical column of widgets",
+            "A widget that displays a material design theme",
+            "A widget that displays a Flutter theme"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386453058_7",
+          "text": "What is the 'Column' widget in Flutter?",
+          "options": [
+            "A widget that displays a vertical column of widgets",
+            "A widget that displays a horizontal row of widgets",
+            "A widget that displays a material design theme",
+            "A widget that displays a Flutter theme"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386453058_8",
+          "text": "What is the 'Text' widget in Flutter?",
+          "options": [
+            "A widget that displays a text string",
+            "A widget that displays an image",
+            "A widget that displays a button",
+            "A widget that displays a material design theme"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386453058_9",
+          "text": "What is the 'Button' widget in Flutter?",
+          "options": [
+            "A widget that displays a button",
+            "A widget that displays a text string",
+            "A widget that displays an image",
+            "A widget that displays a material design theme"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "df21",
+      "title": "qwert11",
+      "description": "Generated Easy level quiz",
+      "duration": 600,
+      "questions": [
+        {
+          "id": "q_1766386579062_0",
+          "text": "What is the print function in Python?",
+          "options": [
+            "Prints the value of a variable",
+            "Prints the value of a string",
+            "Prints the value of a number",
+            "Prints the value of a list"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q_1766386579062_1",
+          "text": "What is the purpose of the 'if' statement in Python?",
+          "options": [
+            "To repeat a block of code",
+            "To skip a block of code",
+            "To make a decision based on a condition",
+            "To store data in a variable"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766386579062_2",
+          "text": "What is the 'for' loop used for in Python?",
+          "options": [
+            "To repeat a block of code",
+            "To skip a block of code",
+            "To iterate over a sequence",
+            "To store data in a variable"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766386579062_3",
+          "text": "What is the purpose of the 'while' loop in Python?",
+          "options": [
+            "To repeat a block of code while a condition is true",
+            "To skip a block of code",
+            "To make a decision based on a condition",
+            "To store data in a variable"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766386579062_4",
+          "text": "What is the 'len()' function used for in Python?",
+          "options": [
+            "To repeat a block of code",
+            "To skip a block of code",
+            "To get the length of a sequence",
+            "To store data in a variable"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766386579062_5",
+          "text": "What is the 'range()' function used for in Python?",
+          "options": [
+            "To repeat a block of code",
+            "To skip a block of code",
+            "To generate a sequence of numbers",
+            "To store data in a variable"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766386579062_6",
+          "text": "What is the 'list()' function used for in Python?",
+          "options": [
+            "To repeat a block of code",
+            "To skip a block of code",
+            "To create an empty list",
+            "To store data in a variable"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766386579062_7",
+          "text": "What is the 'set()' function used for in Python?",
+          "options": [
+            "To repeat a block of code",
+            "To skip a block of code",
+            "To create an empty set",
+            "To store data in a variable"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766386579062_8",
+          "text": "What is the 'dict()' function used for in Python?",
+          "options": [
+            "To repeat a block of code",
+            "To skip a block of code",
+            "To create an empty dictionary",
+            "To store data in a variable"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766386579062_9",
+          "text": "What is the 'try()' block used for in Python?",
+          "options": [
+            "To repeat a block of code",
+            "To skip a block of code",
+            "To handle exceptions",
+            "To store data in a variable"
+          ],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "8527",
+      "title": "fwr",
+      "description": "Generated Easy level quiz",
+      "duration": 600,
+      "questions": [
+        {
+          "id": "q_1766470131125_0",
+          "text": "What is the primary function of a quiz generator AI?",
+          "options": [
+            "To provide information",
+            "To generate questions",
+            "To play games",
+            "To learn languages"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q_1766470131125_1",
+          "text": "Which of the following is a characteristic of a well-designed quiz?",
+          "options": [
+            "It is too easy",
+            "It is too hard",
+            "It is well-structured",
+            "It is too long"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766470131125_2",
+          "text": "What is the purpose of a quiz generator AI in education?",
+          "options": [
+            "To distract students",
+            "To educate students",
+            "To test students",
+            "To entertain students"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q_1766470131125_3",
+          "text": "Which of the following is a benefit of using a quiz generator AI?",
+          "options": [
+            "It is too expensive",
+            "It is too time-consuming",
+            "It is cost-effective",
+            "It is not reliable"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766470131125_4",
+          "text": "What is the process of creating a quiz called?",
+          "options": [
+            "Quiz generation",
+            "Question creation",
+            "Test development",
+            "Assessment design"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766470131125_5",
+          "text": "Which of the following is a type of quiz?",
+          "options": [
+            "Multiple-choice quiz",
+            "True or false quiz",
+            "Open-ended quiz",
+            "Essay quiz"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766470131125_6",
+          "text": "What is the purpose of a quiz generator AI in business?",
+          "options": [
+            "To improve employee performance",
+            "To increase customer satisfaction",
+            "To generate leads",
+            "To analyze data"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766470131125_7",
+          "text": "Which of the following is a characteristic of a good quiz?",
+          "options": [
+            "It is too short",
+            "It is too long",
+            "It is engaging",
+            "It is boring"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766470131125_8",
+          "text": "What is the role of a quiz generator AI in research?",
+          "options": [
+            "To collect data",
+            "To analyze data",
+            "To generate hypotheses",
+            "To test theories"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q_1766470131125_9",
+          "text": "Which of the following is a benefit of using a quiz generator AI in marketing?",
+          "options": [
+            "It is too expensive",
+            "It is too time-consuming",
+            "It is effective",
+            "It is not reliable"
+          ],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "title": "sdvs",
+      "description": "description is needed for this quiz as it iis not a ai generated !",
+      "duration": 60,
+      "id": "fe09",
+      "questions": [
+        {
+          "text": "sd",
+          "options": [
+            "c",
+            "ce",
+            "s",
+            "e"
+          ],
+          "correctAnswer": 0,
+          "id": "q_1766588952796_0"
+        },
+        {
+          "text": "can",
+          "options": [
+            "a",
+            "x",
+            "s",
+            "s"
+          ],
+          "correctAnswer": 0,
+          "id": "q_1766594949161_0"
+        },
+        {
+          "text": "f",
+          "options": [
+            "d",
+            "dd",
+            "df",
+            "fr"
+          ],
+          "correctAnswer": 3,
+          "id": "q_1766594982386_0"
+        }
+      ]
+    },
+    {
+      "id": "6936",
+      "title": "d",
+      "description": "d",
+      "duration": 600,
+      "questions": []
+    }
+  ],
+  "results": [
+    {
+      "id": "77bb",
+      "quizId": null,
+      "userId": "user1",
+      "answers": [
+        {
+          "selectedOption": 1
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 1,
+      "completedAt": "2025-12-09T13:54:41.662Z"
+    },
+    {
+      "id": "dd44",
+      "quizId": null,
+      "userId": "user1",
+      "answers": [
+        {
+          "selectedOption": 1
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 1,
+      "completedAt": "2025-12-09T14:02:12.390Z"
+    },
+    {
+      "id": "09b5",
+      "quizId": null,
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q1",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q2",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q3",
+          "selectedOption": 2
+        },
+        {
+          "selectedOption": 1
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 4,
+      "completedAt": "2025-12-09T14:02:31.402Z"
+    },
+    {
+      "id": "4554",
+      "quizId": "2",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q4",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q5",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q6",
+          "selectedOption": 2
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 3,
+      "completedAt": "2025-12-09T14:22:55.642Z"
+    },
+    {
+      "id": "b7a3",
+      "quizId": null,
+      "userId": "user1",
+      "answers": [
+        {
+          "selectedOption": 0
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 1,
+      "completedAt": "2025-12-10T04:22:42.857Z"
+    },
+    {
+      "id": "9786",
+      "quizId": null,
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q1",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q2",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q3",
+          "selectedOption": 3
+        },
+        {
+          "selectedOption": 2
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 4,
+      "completedAt": "2025-12-10T16:32:13.655Z"
+    },
+    {
+      "id": "6939",
+      "quizId": "2",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q4",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q5",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q6",
+          "selectedOption": 3
+        }
+      ],
+      "score": 0,
+      "totalQuestions": 3,
+      "completedAt": "2025-12-10T16:58:08.313Z"
+    },
+    {
+      "id": "03b7",
+      "quizId": null,
+      "userId": "user1",
+      "answers": [
+        {
+          "selectedOption": 0
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 1,
+      "completedAt": "2025-12-11T04:29:50.813Z"
+    },
+    {
+      "id": "9b70",
+      "quizId": "2",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q4",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q5",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q6",
+          "selectedOption": 2
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 3,
+      "completedAt": "2025-12-11T04:37:15.812Z"
+    },
+    {
+      "id": "6d6e",
+      "quizId": "2",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q4",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q5",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q6",
+          "selectedOption": 1
+        }
+      ],
+      "score": 3,
+      "totalQuestions": 3,
+      "completedAt": "2025-12-11T04:39:10.209Z"
+    },
+    {
+      "id": "965d",
+      "quizId": null,
+      "userId": "user1",
+      "answers": [
+        {
+          "selectedOption": 0
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 1,
+      "completedAt": "2025-12-11T04:40:20.436Z"
+    },
+    {
+      "id": "1540",
+      "quizId": null,
+      "userId": "user1",
+      "answers": [
+        {
+          "selectedOption": 0
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 1,
+      "completedAt": "2025-12-15T04:10:04.095Z"
+    },
+    {
+      "id": "44d2",
+      "quizId": null,
+      "userId": "user1",
+      "answers": [
+        {
+          "selectedOption": 1
+        }
+      ],
+      "score": 0,
+      "totalQuestions": 1,
+      "completedAt": "2025-12-15T07:35:48.361Z"
+    },
+    {
+      "id": "b5f2",
+      "quizId": "2",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q4",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q5",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q6",
+          "selectedOption": 1
+        }
+      ],
+      "score": 3,
+      "totalQuestions": 3,
+      "completedAt": "2025-12-15T08:25:50.808Z"
+    },
+    {
+      "id": "8566",
+      "quizId": null,
+      "userId": "user1",
+      "answers": [
+        {
+          "selectedOption": 2
+        }
+      ],
+      "score": 0,
+      "totalQuestions": 1,
+      "completedAt": "2025-12-15T08:31:58.608Z"
+    },
+    {
+      "id": "fd3f",
+      "quizId": null,
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q_1765788320972_0",
+          "selectedOption": 1
+        }
+      ],
+      "score": 0,
+      "totalQuestions": 1,
+      "completedAt": "2025-12-15T08:45:35.524Z"
+    },
+    {
+      "id": "fd46",
+      "quizId": null,
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q_1765950316452_0",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q_1765950316452_1",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1765950316452_2",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1765950316452_3",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1765950316452_4",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1765950316452_5",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1765950316452_6",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q_1765950316452_7",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1765950316452_8",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1765950316452_9",
+          "selectedOption": 0
+        }
+      ],
+      "score": 5,
+      "totalQuestions": 10,
+      "completedAt": "2025-12-17T05:45:59.563Z"
+    },
+    {
+      "id": "b62a",
+      "quizId": null,
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q_1765950537203_0",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q_1765950537203_1",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1765950537203_2",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q_1765950537203_3",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1765950537203_4",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q_1765950537203_5",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1765950537203_6",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1765950537203_7",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1765950537203_8",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1765950537203_9",
+          "selectedOption": 2
+        }
+      ],
+      "score": 3,
+      "totalQuestions": 10,
+      "completedAt": "2025-12-17T05:51:09.869Z"
+    },
+    {
+      "id": "5131",
+      "quizId": "5bf8",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q_1765952442461_0",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q_1765952442461_1",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1765952442461_2",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1765952442461_3",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1765952442461_4",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1765952442461_5",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1765952442461_6",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1765952442461_7",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1765952442461_8",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q_1765952442461_9",
+          "selectedOption": 2
+        }
+      ],
+      "score": 2,
+      "totalQuestions": 10,
+      "completedAt": "2025-12-17T06:22:45.056Z"
+    },
+    {
+      "id": "548d",
+      "quizId": "987e",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q_1766386453058_0",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1766386453058_1",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766386453058_2",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1766386453058_3",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766386453058_4",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766386453058_5",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766386453058_6",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766386453058_7",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1766386453058_8",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1766386453058_9",
+          "selectedOption": 0
+        }
+      ],
+      "score": 3,
+      "totalQuestions": 10,
+      "completedAt": "2025-12-22T06:54:52.495Z"
+    },
+    {
+      "id": "3c55",
+      "quizId": "df21",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q_1766386579062_0",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q_1766386579062_1",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1766386579062_2",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1766386579062_3",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1766386579062_4",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1766386579062_5",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1766386579062_6",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766386579062_7",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1766386579062_8",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1766386579062_9",
+          "selectedOption": 3
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 10,
+      "completedAt": "2025-12-22T06:58:05.356Z"
+    },
+    {
+      "id": "fe3c",
+      "quizId": "2",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q4",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q5",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q6",
+          "selectedOption": 2
+        }
+      ],
+      "score": 2,
+      "totalQuestions": 3,
+      "completedAt": "2025-12-23T06:03:57.385Z"
+    },
+    {
+      "id": "38c1",
+      "quizId": "8527",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q_1766470131125_0",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q_1766470131125_1",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1766470131125_2",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766470131125_3",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766470131125_4",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1766470131125_5",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766470131125_6",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1766470131125_7",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766470131125_8",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766470131125_9",
+          "selectedOption": 1
+        }
+      ],
+      "score": 2,
+      "totalQuestions": 10,
+      "completedAt": "2025-12-23T06:09:30.965Z"
+    },
+    {
+      "id": "7784",
+      "quizId": "2",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q4",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q5",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q6",
+          "selectedOption": 2
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 3,
+      "completedAt": "2025-12-23T06:28:13.951Z"
+    },
+    {
+      "id": "ebd6",
+      "quizId": "8527",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q_1766470131125_0",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1766470131125_1",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766470131125_2",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q_1766470131125_3",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1766470131125_4",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766470131125_5",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1766470131125_6",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q_1766470131125_7",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766470131125_8",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q_1766470131125_9",
+          "selectedOption": 2
+        }
+      ],
+      "score": 5,
+      "totalQuestions": 10,
+      "completedAt": "2025-12-23T06:45:52.926Z"
+    },
+    {
+      "id": "27ba",
+      "quizId": "fe09",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q_1766588952796_0",
+          "selectedOption": 0
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 1,
+      "completedAt": "2025-12-24T15:09:22.671Z"
+    },
+    {
+      "id": "1dd3",
+      "quizId": "fe09",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q_1766588952796_0",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1766594949161_0",
+          "selectedOption": 2
+        }
+      ],
+      "score": 0,
+      "totalQuestions": 2,
+      "completedAt": "2025-12-24T16:49:21.717Z"
+    }
+  ]
+}
