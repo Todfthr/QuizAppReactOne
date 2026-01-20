@@ -71,7 +71,7 @@ const Home: React.FC = () => {
 
         </motion.div>
 
-        <motion.div variants={itemVariants} className="grid grid-cols-1 md:grid-cols-3 gap-6 text-left">
+        {/* <motion.div variants={itemVariants} className="grid grid-cols-1 md:grid-cols-3 gap-6 text-left">
           {[
             { icon: Wand2, title: "AI-Powered Generation", desc: "Create unique quizzes on any topic in seconds using advanced AI." },
             { icon: Trophy, title: "Track Progress", desc: "See your improvement over time and earn achievements." },
@@ -83,7 +83,7 @@ const Home: React.FC = () => {
               <p className="text-slate-600 dark:text-slate-400">{feature.desc}</p>
             </Card>
           ))}
-        </motion.div>
+        </motion.div> */}
       </motion.div>
 
       <Modal

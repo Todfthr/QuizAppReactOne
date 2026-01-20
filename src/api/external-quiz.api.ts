@@ -1,7 +1,7 @@
 import axios from 'axios';
 import type { ExternalQuizResponse } from '../types/quiz.types';
 
-const EXTERNAL_API_URL = 'http://192.168.1.11:8000';
+const EXTERNAL_API_URL = 'http://192.168.1.12:8000';
 // const EXTERNAL_API_URL = 'https://sailing-sin-deposits-basement.trycloudflare.com';
 
 

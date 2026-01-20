@@ -4,8 +4,8 @@
 
 I've successfully built a fully functional MVP of a Quiz App using React, Vite, TypeScript, and the requested technologies:
 
-- **React** - Core frontend library
-- **Vite** - Fast build tool and development server
+- **React** - Core frontend library //19.2
+- **Vite** - Fast build tool and development server //bundler
 - **TypeScript** - Type safety throughout the application
 - **Bootstrap 5** - Responsive UI framework
 - **React Router 6** - Client-side routing

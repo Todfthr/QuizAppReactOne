@@ -111,7 +111,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
 
       <footer className="border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 py-8">
         <div className="container mx-auto px-4 text-center text-slate-600 dark:text-slate-400">
-          <p>© 2025 QuizApp. Built with React & Tailwind.</p>
+          <p>© 2025 QuizApp.</p>
         </div>
       </footer>
     </div>

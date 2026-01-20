@@ -131,7 +131,7 @@ const EditQuiz: React.FC = () => {
 
           <div className="space-y-2">
             <label htmlFor="duration" className="text-sm font-medium flex items-center gap-2 text-slate-700 dark:text-slate-300">
-              <Clock className="w-4 h-4" /> Duration (minutes)
+              <Clock className="w-4 h-4" /> Duration (seconds)
             </label>
             <Input
               type="number"

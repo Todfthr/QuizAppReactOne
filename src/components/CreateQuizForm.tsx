@@ -38,7 +38,7 @@ const CreateQuizForm: React.FC<CreateQuizFormProps> = ({ onClose }) => {
         defaultValues: {
             title: '',
             description: '',
-            duration: 600, // Default to 600 seconds (10 minutes)
+            duration: 60, 
             topic: '',
             generateFromAI: false
         },
@@ -167,7 +167,7 @@ const CreateQuizForm: React.FC<CreateQuizFormProps> = ({ onClose }) => {
                         })}
                         className={cn(errors.topic && "border-red-500 focus-visible:ring-red-500")}
                     />
-                    <p className="text-xs text-slate-500">The AI will generate questions based on this topic.</p>
+                    <p className="text-xs text-slate-500">e.g., make an intermediate level quiz of 10 questions based on flutter</p>
                     {errors.topic && (
                         <p className="text-sm text-red-500">{errors.topic.message}</p>
                     )}

@@ -274,6 +274,17 @@
             "Manages the app's database"
           ],
           "correctAnswer": 0
+        },
+        {
+          "text": "sfgf",
+          "options": [
+            "d",
+            "c",
+            "d",
+            "r"
+          ],
+          "correctAnswer": 2,
+          "id": "q_1766984965727_0"
         }
       ]
     },
@@ -868,122 +879,10 @@
       ]
     },
     {
-      "id": "8527",
       "title": "fwr",
       "description": "Generated Easy level quiz",
-      "duration": 600,
-      "questions": [
-        {
-          "id": "q_1766470131125_0",
-          "text": "What is the primary function of a quiz generator AI?",
-          "options": [
-            "To provide information",
-            "To generate questions",
-            "To play games",
-            "To learn languages"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "id": "q_1766470131125_1",
-          "text": "Which of the following is a characteristic of a well-designed quiz?",
-          "options": [
-            "It is too easy",
-            "It is too hard",
-            "It is well-structured",
-            "It is too long"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "id": "q_1766470131125_2",
-          "text": "What is the purpose of a quiz generator AI in education?",
-          "options": [
-            "To distract students",
-            "To educate students",
-            "To test students",
-            "To entertain students"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "id": "q_1766470131125_3",
-          "text": "Which of the following is a benefit of using a quiz generator AI?",
-          "options": [
-            "It is too expensive",
-            "It is too time-consuming",
-            "It is cost-effective",
-            "It is not reliable"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "id": "q_1766470131125_4",
-          "text": "What is the process of creating a quiz called?",
-          "options": [
-            "Quiz generation",
-            "Question creation",
-            "Test development",
-            "Assessment design"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "id": "q_1766470131125_5",
-          "text": "Which of the following is a type of quiz?",
-          "options": [
-            "Multiple-choice quiz",
-            "True or false quiz",
-            "Open-ended quiz",
-            "Essay quiz"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "id": "q_1766470131125_6",
-          "text": "What is the purpose of a quiz generator AI in business?",
-          "options": [
-            "To improve employee performance",
-            "To increase customer satisfaction",
-            "To generate leads",
-            "To analyze data"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "id": "q_1766470131125_7",
-          "text": "Which of the following is a characteristic of a good quiz?",
-          "options": [
-            "It is too short",
-            "It is too long",
-            "It is engaging",
-            "It is boring"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "id": "q_1766470131125_8",
-          "text": "What is the role of a quiz generator AI in research?",
-          "options": [
-            "To collect data",
-            "To analyze data",
-            "To generate hypotheses",
-            "To test theories"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "id": "q_1766470131125_9",
-          "text": "Which of the following is a benefit of using a quiz generator AI in marketing?",
-          "options": [
-            "It is too expensive",
-            "It is too time-consuming",
-            "It is effective",
-            "It is not reliable"
-          ],
-          "correctAnswer": 2
-        }
-      ]
+      "duration": 6,
+      "id": "8527"
     },
     {
       "title": "sdvs",
@@ -1032,6 +931,124 @@
       "description": "d",
       "duration": 600,
       "questions": []
+    },
+    {
+      "id": "3c66",
+      "title": "rr",
+      "description": "Generated Easy level quiz",
+      "duration": 600,
+      "questions": [
+        {
+          "id": "q_1766983060252_0",
+          "text": "What is the main widget class in Flutter?",
+          "options": [
+            "Text",
+            "Scaffold",
+            "MaterialApp",
+            "Widget"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "id": "q_1766983060252_1",
+          "text": "What is the purpose of the 'main' function in Flutter?",
+          "options": [
+            "To define the app's theme",
+            "To create a new widget",
+            "To define the app's entry point",
+            "To set the app's title"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766983060252_2",
+          "text": "What is the 'StatelessWidget' class in Flutter?",
+          "options": [
+            "A widget that can change its state",
+            "A widget that cannot change its state",
+            "A widget that can display data",
+            "A widget that cannot display data"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q_1766983060252_3",
+          "text": "What is the 'FutureBuilder' widget in Flutter?",
+          "options": [
+            "A widget that displays data from a future",
+            "A widget that displays data from a stream",
+            "A widget that displays data from a stream of widgets",
+            "A widget that displays data from a list"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766983060252_4",
+          "text": "What is the 'MaterialApp' widget in Flutter?",
+          "options": [
+            "A widget that displays a material design theme",
+            "A widget that displays a flutter theme",
+            "A widget that displays a dark theme",
+            "A widget that displays a light theme"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766983060252_5",
+          "text": "What is the 'Text' widget in Flutter?",
+          "options": [
+            "A widget that displays text",
+            "A widget that displays images",
+            "A widget that displays buttons",
+            "A widget that displays containers"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766983060252_6",
+          "text": "What is the 'Scaffold' widget in Flutter?",
+          "options": [
+            "A widget that displays a material design theme",
+            "A widget that displays a flutter theme",
+            "A widget that displays a dark theme",
+            "A widget that displays a light theme"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766983060252_7",
+          "text": "What is the 'ListView' widget in Flutter?",
+          "options": [
+            "A widget that displays a list of widgets",
+            "A widget that displays a list of strings",
+            "A widget that displays a list of numbers",
+            "A widget that displays a list of booleans"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q_1766983060252_8",
+          "text": "What is the 'Navigator' widget in Flutter?",
+          "options": [
+            "A widget that displays a navigation bar",
+            "A widget that displays a navigation drawer",
+            "A widget that displays a navigation stack",
+            "A widget that displays a navigation history"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "id": "q_1766983060252_9",
+          "text": "What is the 'Provider' widget in Flutter?",
+          "options": [
+            "A widget that displays a provider of data",
+            "A widget that displays a consumer of data",
+            "A widget that displays a builder of data",
+            "A widget that displays a listener of data"
+          ],
+          "correctAnswer": 0
+        }
+      ]
     }
   ],
   "results": [
@@ -1738,6 +1755,106 @@
       "score": 0,
       "totalQuestions": 2,
       "completedAt": "2025-12-24T16:49:21.717Z"
+    },
+    {
+      "id": "b75c",
+      "quizId": "3c66",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q_1766983060252_0",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1766983060252_1",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1766983060252_2",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1766983060252_3",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766983060252_4",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766983060252_5",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1766983060252_6",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1766983060252_7",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1766983060252_8",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1766983060252_9",
+          "selectedOption": 2
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 10,
+      "completedAt": "2025-12-29T04:38:41.336Z"
+    },
+    {
+      "id": "0722",
+      "quizId": "7540",
+      "userId": "user1",
+      "answers": [
+        {
+          "questionId": "q_1765952321317_0",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1765952321317_1",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1765952321317_2",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1765952321317_3",
+          "selectedOption": 1
+        },
+        {
+          "questionId": "q_1765952321317_4",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1765952321317_5",
+          "selectedOption": 0
+        },
+        {
+          "questionId": "q_1765952321317_6",
+          "selectedOption": 2
+        },
+        {
+          "questionId": "q_1765952321317_7",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1765952321317_8",
+          "selectedOption": 3
+        },
+        {
+          "questionId": "q_1765952321317_9",
+          "selectedOption": 3
+        }
+      ],
+      "score": 1,
+      "totalQuestions": 10,
+      "completedAt": "2026-01-09T10:31:27.347Z"
     }
   ]
 }

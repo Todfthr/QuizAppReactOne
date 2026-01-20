@@ -12,7 +12,7 @@ import TestExternalQuiz from './pages/TestExternalQuiz';
 
 // Create a client
 const queryClient = new QueryClient();
-
+ 
 function App() {
   return (
     <QueryClientProvider client={queryClient}>
