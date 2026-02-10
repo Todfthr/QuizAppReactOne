@@ -40,7 +40,7 @@ const Home: React.FC = () => {
         </motion.div>
 
         <motion.h1 variants={itemVariants} className="text-4xl md:text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-purple-600 dark:from-indigo-400 dark:to-purple-400">
-          Quiz Smarter with AIs
+          Quiz Smarter with AI
         </motion.h1>
 
         <motion.p variants={itemVariants} className="text-xl md:text-2xl text-slate-600 dark:text-slate-300 mb-10 max-w-2xl mx-auto leading-relaxed">
