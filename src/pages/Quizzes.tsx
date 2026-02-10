@@ -33,7 +33,9 @@ const Quizzes: React.FC = () => {
       <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
         <div>
           <h2 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-purple-600">Available Quizzes</h2>
-          <p className="text-slate-600 dark:text-slate-400 mt-1">Challenge yourself with our collection of quizzes</p>
+          <p className="text-slate-600 dark:text-slate-400 mt-1">Challenge yourself with our collection of quizzes 
+            Challenge yourself with our collection of quizzes
+          </p>
         </div>
         <Button
           className="gap-2 shadow-lg shadow-indigo-500/20"
