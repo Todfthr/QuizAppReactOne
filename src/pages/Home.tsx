@@ -51,13 +51,13 @@ const Home: React.FC = () => {
           <Link to="/quizzes">
             <Button size="lg" className="w-full sm:w-auto text-lg px-8 py-6 rounded-xl shadow-xl shadow-indigo-500/20">
               <PlayCircle className="mr-2 h-6 w-6" />
-              Browse Quizzes.
+              Browse Quizzes on tapping here.
             </Button>
           </Link>
           <Link to="/results">
             <Button variant="outline" size="lg" className="w-full sm:w-auto text-lg px-8 py-6 rounded-xl">
               <BarChart2 className="mr-2 h-6 w-6" />
-              View Results
+              View Results on tapping here.
             </Button>
           </Link>
           <Button
