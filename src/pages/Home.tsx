@@ -45,14 +45,13 @@ const Home: React.FC = () => {
 
         <motion.p variants={itemVariants} className="text-xl md:text-2xl text-slate-600 dark:text-slate-300 mb-10 max-w-2xl mx-auto leading-relaxed">
           Instantly generate quizzes on any subject using artificial intelligence, or challenge yourself with our curated collection.
-            Instantly generate quizzes on any subject using artificial intelligence, or challenge yourself with our curated collection.
         </motion.p>
 
         <motion.div variants={itemVariants} className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
           <Link to="/quizzes">
             <Button size="lg" className="w-full sm:w-auto text-lg px-8 py-6 rounded-xl shadow-xl shadow-indigo-500/20">
               <PlayCircle className="mr-2 h-6 w-6" />
-              Browse Quizzes
+              Browse Quizzes at your fingertips
             </Button>
           </Link>
           <Link to="/results">
