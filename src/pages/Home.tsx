@@ -51,7 +51,7 @@ const Home: React.FC = () => {
           <Link to="/quizzes">
             <Button size="lg" className="w-full sm:w-auto text-lg px-8 py-6 rounded-xl shadow-xl shadow-indigo-500/20">
               <PlayCircle className="mr-2 h-6 w-6" />
-              Browse Quizzes at your fingertips
+              Browse Quizzes.
             </Button>
           </Link>
           <Link to="/results">
